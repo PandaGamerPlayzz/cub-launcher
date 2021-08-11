@@ -1,6 +1,12 @@
 {
-    "release-version": "0.0.1",
-    "release-urls": {
-        "win64": "https://download1480.mediafire.com/p9a167q193hg/m0s7ts6g43jyp54/cub-launcher-win32-x64.zip"
+    "0.0.1": {
+        "release-urls": {
+            "win64": "https://download1480.mediafire.com/93u9jq1orjig/m0s7ts6g43jyp54/cub-launcher-win32-x64.zip"
+        }
+    },
+    "0.0.2": {
+        "release-urls": {
+            "win64": "https://download1507.mediafire.com/ywl8oegfkgqg/cnd3wdddza3zleq/cub-launcher-win32-x64.zip"
+        }
     }
 }
